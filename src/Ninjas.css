@@ -1,0 +1,19 @@
+body {
+    background: pink;
+}
+
+form {
+    background: red;
+    padding: 10px;
+}
+
+input {
+    display: block;
+}
+
+.ninja div {
+    color: blue;
+    font-weight: 900;
+    padding: 2px;
+}
+
